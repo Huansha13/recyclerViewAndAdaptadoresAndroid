@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewAdaptadores</string>
+    <string name="todo">TODO</string>
+    <string name="lista_de_nombres">Lista de nombres</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="agregar">Agregar</string>
+</resources>
